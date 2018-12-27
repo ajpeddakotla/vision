@@ -1,1 +1,1 @@
-The Hypothesis vision repo will soon be closed and all issues are in the process of being moved to the Product Backlog repo here: https://github.com/hypothesis/product-backlog
+The Hypothesis vision repo has been archived. Please submit any new issues or feature requests here: https://github.com/hypothesis/product-backlog
